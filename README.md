@@ -8,11 +8,9 @@ I love the challenge of taking complex ML research and turning it into something
 
 ## Current Projects
 
-**Reinforcement Learning Trading Agent** — Teaching an AI to trade stocks (and hopefully not lose all its money)
+**Network Anomaly Detection System** — Building an unsupervised ML system that detects cyber attacks by learning normal network behavior patterns using autoencoders and LSTMs
 
-**Multi-Modal VQA System** — Combining vision and language so models can actually understand images
-
-**Molecular Property Prediction with GNNs** — Using graph neural networks for drug discovery applications
+**Multi-Modal Visual Question Answering** — Developing a vision-language model that answers questions about images using transformers and cross-modal attention mechanisms
 
 ## Technical Stack
 
