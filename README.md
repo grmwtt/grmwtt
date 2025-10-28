@@ -22,8 +22,8 @@ I love the challenge of taking complex ML research and turning it into something
 ## Education
 
 **Virginia Tech**  
-M.S. in Data Science (Accelerated) — Expected 2027  
-B.S. in Computational Modeling & Data Analytics — 3.44 GPA  
+M.S. in Data Science (Accelerated) — Expected May 2027  
+B.S. in Computational Modeling & Data Analytics — 3.44 GPA - Expected May 2026
 Minors: CS, Statistics, Mathematics
 
 ## Connect
