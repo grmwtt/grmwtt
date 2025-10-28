@@ -1,27 +1,32 @@
-# Hi, I'm Griffin 👋
+# Hey there! I'm Griffin 👋
 
-I'm a graduate student at Virginia Tech pursuing an M.S. in Data Science with a focus on **machine learning engineering** and **advanced analytics**. I'm passionate about building intelligent systems that solve real-world problems.
+I'm a grad student at Virginia Tech who gets excited about building intelligent systems. Currently deep in the world of **machine learning**, **deep learning**, and trying to make models that actually work in production (not just in notebooks 😄).
 
-## 🎓 Background
-- **M.S. in Data Science** (Accelerated Program) - Expected May 2027
-- **B.S. in Computational Modeling & Data Analytics** - GPA: 3.44
-- Minors in Computer Science, Statistics, and Mathematics
+## 🎯 What Drives Me
+I love the challenge of taking complex ML research and turning it into something practical and deployable. Whether it's training RL agents, fine-tuning transformers, or optimizing graph neural networks - I'm all about building systems that solve real problems.
 
-## 🔬 What I'm Working On
-- Building end-to-end ML systems with a focus on deep learning and reinforcement learning
-- Exploring multi-modal learning, graph neural networks, and causal inference
-- Developing production-ready models with proper MLOps practices
+## 🔭 Current Projects
+- **Reinforcement Learning Trading Agent** - Teaching an AI to trade stocks (and hopefully not lose all its money)
+- **Multi-Modal VQA System** - Combining vision and language so models can actually understand images
+- **Molecular Property Prediction with GNNs** - Using graph neural networks for drug discovery applications
 
-## 🛠️ Technical Stack
-**Languages:** Python, R, SQL, Java, C  
-**ML/DL:** PyTorch, Scikit-learn, Hugging Face Transformers, PyTorch Geometric  
-**Tools:** Git, Docker, MLflow, Jupyter, VS Code  
-**Specialties:** Deep Learning, Computer Vision, NLP, Reinforcement Learning, Time Series
+## 🧰 Technical Toolbox
+**Core:** Python, PyTorch, Scikit-learn, SQL  
+**ML Specialties:** Deep Learning, Computer Vision, NLP, Reinforcement Learning  
+**Engineering:** Git, Docker, MLflow, FastAPI, Linux  
+**Always Learning:** MLOps, Graph Neural Networks, Causal Inference
 
-## 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/griffin-witt](https://linkedin.com/in/griffin-witt)
-- Email: gwitt1@vt.edu
+## 📚 Education
+**Virginia Tech**
+- M.S. in Data Science (Accelerated) - Expected 2027
+- B.S. in Computational Modeling & Data Analytics - 3.44 GPA
+- Minors: CS, Statistics, Mathematics
+
+## 🤝 Let's Connect!
+- 💼 [LinkedIn](https://linkedin.com/in/griffin-witt)
+- 📧 gwitt1@vt.edu
+- 🔗 Check out my pinned repos below to see what I'm building
 
 ---
 
-💡 *Currently building my ML portfolio - check out my pinned repositories below!*
+🚀 *Open to Summer 2026 internships in Data Science and ML Engineering*
