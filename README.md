@@ -13,11 +13,11 @@ I love the challenge of taking complex ML research and turning it into something
 **Multi-Modal Visual Question Answering** — Developing a vision-language model that answers questions about images using transformers and cross-modal attention mechanisms
 
 **Technical Stack**
-- Python, R, SQL
-- Scikit-learn, Pandas, NumPy
-- Machine Learning & Data Science
-- Git, Linux/WSL
-- Currently exploring: Deep Learning, PyTorch, Computer Vision
+- **Core**: Python, R, SQL, Git
+- **ML/Data Science**: Scikit-learn, Pandas, NumPy, Matplotlib/Seaborn
+- **Currently Learning**: PyTorch, Deep Learning, Computer Vision, NLP
+- **Tools**: Jupyter, Linux/WSL, GitHub
+- **Interests**: Machine Learning, Anomaly Detection, Forecasting
 
 ## Education
 
