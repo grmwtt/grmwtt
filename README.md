@@ -12,12 +12,13 @@ I'm passionate about learning machine learning and applying it to solve real-wor
 
 **Multi-Modal Visual Question Answering** — Developing a vision-language model that answers questions about images using transformers and cross-modal attention mechanisms
 
-**Technical Stack**
-- **Core**: Python, R, SQL, Git
-- **ML/Data Science**: Scikit-learn, Pandas, NumPy, Matplotlib/Seaborn
-- **Currently Learning**: PyTorch, Deep Learning, Computer Vision, NLP
-- **Tools**: Jupyter, Linux/WSL, GitHub
-- **Interests**: Machine Learning, Anomaly Detection, Forecasting
+## Technical Stack
+- **Programming**: Python, R, SQL, Java, C
+- **ML/Data Science**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning**: Regression, Classification (kNN, Naive Bayes, Random Forest), Clustering (k-means, PCA)
+- **Tools**: Jupyter Notebook, RStudio, VS Code, Git/GitHub, Google Colab
+- **Databases/ETL**: SQL Server, API Integration, Web Scraping, Data Cleaning
+- **Currently Exploring**: PyTorch, Neural Networks, Deep Learning
 
 ## Education
 
