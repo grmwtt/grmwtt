@@ -12,12 +12,12 @@ I love the challenge of taking complex ML research and turning it into something
 
 **Multi-Modal Visual Question Answering** — Developing a vision-language model that answers questions about images using transformers and cross-modal attention mechanisms
 
-## Technical Stack
-
-**Core:** Python, PyTorch, Scikit-learn, SQL  
-**ML Specialties:** Deep Learning, Computer Vision, NLP, Reinforcement Learning  
-**Engineering:** Git, Docker, MLflow, FastAPI, Linux  
-**Always Learning:** MLOps, Graph Neural Networks, Causal Inference
+**Technical Stack**
+- Python, R, SQL
+- Scikit-learn, Pandas, NumPy
+- Machine Learning & Data Science
+- Git, Linux/WSL
+- Currently exploring: Deep Learning, PyTorch, Computer Vision
 
 ## Education
 
