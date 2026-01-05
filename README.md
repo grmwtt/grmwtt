@@ -4,7 +4,7 @@ I'm a grad student at Virginia Tech who gets excited about building intelligent 
 
 ## What Drives Me
 
-I'm passionate about learning machine learning and applying it to solve real-world problems. I'm currently building my skills through hands-on projects in anomaly detection, predictive modeling, and data analysis. I'm excited to explore deep learning, reinforcement learning, and other advanced ML techniques as I continue to grow in this field.
+I'm passionate about machine learning and applying it to solve real-world problems. I'm currently building my skills through hands-on projects in anomaly detection, predictive modeling, and data analysis. I'm excited to explore deep learning, reinforcement learning, and other advanced ML techniques as I continue to grow in this field.
 
 ## Current Projects
 
