@@ -1,6 +1,6 @@
 # Hey there! I'm Griffin
 
-I'm a grad student at Virginia Tech who gets excited about building intelligent systems. Currently deep in the world of **machine learning**, **deep learning**, and trying to make models that actually work in production (not just in notebooks).
+I'm an undergrad/grad student at Virginia Tech who gets excited about building intelligent systems. Currently deep in the world of **machine learning**, **deep learning**, and trying to make models that actually work in production (not just in notebooks).
 
 ## What Drives Me
 
