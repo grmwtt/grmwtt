@@ -6,12 +6,6 @@ I'm a grad student at Virginia Tech who gets excited about building intelligent 
 
 I'm passionate about machine learning and applying it to solve real-world problems. I'm currently building my skills through hands-on projects in anomaly detection, predictive modeling, and data analysis. I'm excited to explore deep learning, reinforcement learning, and other advanced ML techniques as I continue to grow in this field.
 
-## Current Projects
-
-**Network Anomaly Detection System** — Building an unsupervised ML system that detects cyber attacks by learning normal network behavior patterns using autoencoders and LSTMs
-
-**Multi-Modal Visual Question Answering** — Developing a vision-language model that answers questions about images using transformers and cross-modal attention mechanisms
-
 ## Technical Stack
 - **Programming**: Python, R, SQL, Java, C
 - **ML/Data Science**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
@@ -24,7 +18,7 @@ I'm passionate about machine learning and applying it to solve real-world proble
 
 **Virginia Tech**  
 M.S. in Data Science (Accelerated) — Expected May 2027  
-B.S. in Computational Modeling & Data Analytics — 3.44 GPA — Expected May 2026 <br>
+B.S. in Computational Modeling & Data Analytics — 3.5 GPA — Expected May 2026 <br>
 Minors: CS, Statistics, Mathematics
 
 ## Connect
